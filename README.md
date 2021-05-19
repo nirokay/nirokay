@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @NiroUwU
-- 👀 I’m interested in stuff.
-- 🌱 I’m making some programming stuff.
+## __Hello, I'm Niro!__ 
 
-<!---
-NiroUwU/NiroUwU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I make some silly programs as a hobby. I mainly program in Java/Processing!
+
+Feel free to play some if you feel bored! :)
