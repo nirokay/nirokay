@@ -1,5 +1,9 @@
-## __Hello, I'm Niro!__ 
+# "Hello World! :)"
+This joke is ***very original*** - no one has ever done that before, I am very sure!
 
-I make some silly programs as a hobby. I mainly program in Java/Processing! I recently started learning Shell.
+Anyways, hi I'm nirokay and i do some programming.
 
-Feel free to play some if you feel bored! :)
+
+## Programming languages:
+ * Java/Processing
+ * Bash Shell
