@@ -7,3 +7,4 @@ Anyways, hi I'm nirokay and i do some programming.
 ## Programming languages:
  * Java/Processing
  * Bash Shell
+ * (a small bit of) Lua
