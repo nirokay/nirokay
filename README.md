@@ -22,4 +22,4 @@ Ohh did I mention that I use arch(based) system btw??
 
 ### Java <img title="" src=".pic/lang/java.png" alt="" data-align="inline" width="20">
 
-I didn't use java for a long time, so I just put this on this list to make myself looks smarter and cooler!
+I didn't use java in a long time, so I just put this on this list to make myself looks smarter and cooler!
