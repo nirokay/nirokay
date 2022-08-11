@@ -1,22 +1,25 @@
-# ~ "Hello World! :)"
+# Hello World!
 
-This joke is ***very original*** - no one has ever done that before, I am very sure!
+This is a very original joke, I am sure *nobody* ever has made it before... **ever**!
 
+## About Me
 
-## ~ About me:
+Hi! I am Kay, I go by they/them.
 
+I like cats, coffee and programming :3
 
-I am nirokay (Kay), I go by they/them pronouns and do coding as a hobby.
+## Programming Languages
 
-Also: I like coffee :) ☕️ 
+### Lua <img title="" src=".pic/lang/lua.png" alt="" width="20" data-align="inline">
 
+God I love Lua, i don't care what anyone says, I will still adore it :)
 
-## ~ Programming languages:
+### Bash <img title="" src=".pic/lang/bash.png" alt="" data-align="inline" width="20">
 
-<img src="./pic/lang/java.png" alt="Java Icon" width="50"/> 
-<img src="./pic/lang/bash.png" alt="Bash Icon" width="50"/> 
-<img src="./pic/lang/lua.png " alt="Lua Icon " width="50"/> 
+Bash is amazing, let's me communicate with my Linux System.
 
- * <span style="color:orange   "> Java/Processing </span>
- * <span style="color:green    "> Bash Shell      </span>
- * <span style="color:blue     "> Lua             </span> 
+Ohh did I mention that I use arch(based) system btw??
+
+### Java <img title="" src=".pic/lang/java.png" alt="" data-align="inline" width="20">
+
+I didn't use java for a long time, so I just put this on this list to make myself looks smarter and cooler!
