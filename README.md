@@ -12,14 +12,18 @@ I like cats, coffee and programming :3
 
 ### Lua <img title="" src=".pic/lang/lua.png" alt="" width="20" data-align="inline">
 
-God I love Lua, i don't care what anyone says, I will still adore it :)
+God I love Lua! :)
 
 ### Bash <img title="" src=".pic/lang/bash.png" alt="" data-align="inline" width="20">
 
-Bash is amazing, let's me communicate with my Linux System.
+I like to torture myself from time to time...
 
 Ohh did I mention that I use arch(based) system btw??
 
 ### Java <img title="" src=".pic/lang/java.png" alt="" data-align="inline" width="20">
 
 I didn't use java in a long time, so I just put this on this list to make myself looks smarter and cooler!
+
+## GitHub Metrics
+
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
