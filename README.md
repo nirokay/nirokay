@@ -1,9 +1,10 @@
 # Hello World!
 
-This is a very original joke, I am sure *nobody* ever has made it before... **ever**!
+## About me
 
-Hi! I am Kay, I go by they/them.
+* my entire personality is simping for the [Nim](https://nim-lang.org/) programming language.
+* i like cats!!
 
-I like cats, coffee and programming :3
+## Metrics
 
-<img align="center" src="/github-metrics.svg" alt="GitHub Metrics">
+![metrics image](./github-metrics.svg)
