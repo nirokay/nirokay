@@ -19,8 +19,8 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_details: percentage
           plugin_languages_categories: yes
-          plugin_languages_limit: 0
-          plugin_languages_analysis_timeout_repositories: 0
+          # plugin_languages_limit: 0
+          # plugin_languages_analysis_timeout_repositories: 0
           repositories_skipped: nirokay/nirokay.github.io
 
           # Token:
