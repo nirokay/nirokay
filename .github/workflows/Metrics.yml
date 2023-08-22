@@ -19,5 +19,5 @@ jobs:
           repositories_skipped: nirokay/nirokay.github.io
           plugin_languages_details: percentage
           plugin_languages_limit: 16
-          plugin_languages_details: lines, bytes-size
+          plugin_languages_details: lines
           token: ${{ secrets.METRICS_TOKEN }}
