@@ -15,7 +15,9 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           plugin_languages: yes
+          plugin_languages_indepth: yes
           repositories_skipped: nirokay/nirokay.github.io
           plugin_languages_details: percentage
           plugin_languages_limit: 16
+          plugin_languages_details: lines, bytes-size
           token: ${{ secrets.METRICS_TOKEN }}
