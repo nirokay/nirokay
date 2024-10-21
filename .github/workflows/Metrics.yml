@@ -21,7 +21,7 @@ jobs:
           # plugin_languages_categories: yes
           plugin_languages_limit: 8
           # plugin_languages_analysis_timeout_repositories: 0
-          repositories_skipped: nirokay/nirokay.github.io, nirokay/nirokay.com
+          repositories_skipped: nirokay.github.io, nirokay.com
 
           # Token:
           token: ${{ secrets.METRICS_TOKEN }}
